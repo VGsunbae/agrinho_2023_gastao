@@ -4,4 +4,7 @@
 @import url(destop.css);
 @import url(tv.css);
 
+body{
+    background: linear-gradient(to top, orange, white);
+}
 
